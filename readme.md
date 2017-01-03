@@ -1,4 +1,5 @@
 After you clone the repo,
+
 1. `pip install virtual env`
 2. `source env/bin/activate`
  - you should see something like `(env)` on the right side of your prompt
